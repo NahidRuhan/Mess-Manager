@@ -1,0 +1,13 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Outer Circle -->
+    <item>
+        <shape android:shape="oval">
+            <stroke
+                android:width="6dp"
+                android:startColor="#808080"
+                android:endColor="#000000"
+                android:type="sweep" />
+            <solid android:color="@android:color/transparent" />
+        </shape>
+    </item>
+</layer-list>
